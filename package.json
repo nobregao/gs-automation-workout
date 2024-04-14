@@ -1,0 +1,9 @@
+{
+  "name": "gs-automation-workout",
+  "description": "Automação para criar sequência de treinos no Google Calendar",
+  "version": "1.0.0",
+  "author": "nobregao",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
